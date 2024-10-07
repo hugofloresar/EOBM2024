@@ -4,7 +4,9 @@ Este repositorio contiene los archivos utilizados en el Minicurso La Estadístic
 
 ___________
 
-El archivo PhylogeneticTrees.ipynb es un Jupyter Notebook que ilustra como realizar árboles filogenéticos del tipo UPGMA y NJ.  
+El archivo PhylogeneticTrees.ipynb es un Jupyter Notebook que ilustra como realizar árboles filogenéticos del tipo UPGMA y NJ, y se puede correr desde un Google Colab
+
+<https://colab.research.google.com>
 
 ___________
 
