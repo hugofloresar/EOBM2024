@@ -1,6 +1,6 @@
 # EOBM 2024
 
-Este repositorio contiene los archivos utilizados en el Minicurso4: La Estadística Detrás del Análisis Filogenético 
+Este repositorio contiene los archivos utilizados en el **Minicurso4: La Estadística Detrás del Análisis Filogenético** del evento:
 
 <https://biomate2024.eventos.cimat.mx/minicursos_biomate_2024>
 
